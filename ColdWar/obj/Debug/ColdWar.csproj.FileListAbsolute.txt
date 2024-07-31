@@ -1,0 +1,60 @@
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\bin\Debug\ColdWar.exe.config
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\bin\Debug\ColdWar.exe
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\bin\Debug\ColdWar.pdb
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\bin\Debug\Aqua.dll
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\bin\Debug\Aqua.Newtonsoft.Json.dll
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\bin\Debug\MetroFramework.dll
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\bin\Debug\MetroSet UI.dll
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\bin\Debug\Remote.Linq.dll
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\bin\Debug\Remote.Linq.Newtonsoft.Json.dll
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\bin\Debug\Aqua.xml
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\bin\Debug\Aqua.Newtonsoft.Json.xml
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\bin\Debug\Remote.Linq.xml
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\bin\Debug\Remote.Linq.Newtonsoft.Json.xml
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\obj\Debug\ColdWar.csproj.AssemblyReference.cache
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\obj\Debug\ColdWar.Form1.resources
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\obj\Debug\ColdWar.Properties.Resources.resources
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\obj\Debug\ColdWar.csproj.GenerateResource.cache
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\obj\Debug\ColdWar.csproj.CoreCompileInputs.cache
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\obj\Debug\ColdWar.csproj.Up2Date
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\obj\Debug\ColdWar.exe
+C:\Users\SOFFF\Desktop\CW\ColdWar\ColdWar\obj\Debug\ColdWar.pdb
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\obj\Debug\ColdWar.csproj.AssemblyReference.cache
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\obj\Debug\ColdWar.Form1.resources
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\obj\Debug\ColdWar.Properties.Resources.resources
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\obj\Debug\ColdWar.csproj.GenerateResource.cache
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\obj\Debug\ColdWar.csproj.CoreCompileInputs.cache
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\obj\Debug\ColdWar.exe
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\obj\Debug\ColdWar.pdb
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\bin\Debug\ColdWar.exe.config
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\bin\Debug\ColdWar.exe
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\bin\Debug\ColdWar.pdb
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\bin\Debug\Aqua.dll
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\bin\Debug\Aqua.Newtonsoft.Json.dll
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\bin\Debug\MetroFramework.dll
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\bin\Debug\MetroSet UI.dll
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\bin\Debug\Remote.Linq.dll
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\bin\Debug\Remote.Linq.Newtonsoft.Json.dll
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\bin\Debug\Aqua.xml
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\bin\Debug\Aqua.Newtonsoft.Json.xml
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\bin\Debug\Remote.Linq.xml
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\bin\Debug\Remote.Linq.Newtonsoft.Json.xml
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\SOFFF\Desktop\CW DA TOOL + SOURCE\ColdWar\ColdWar\obj\Debug\ColdWar.csproj.Up2Date
